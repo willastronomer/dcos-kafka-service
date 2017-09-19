@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Overview](docs/index.md)
-- [Quick Start](docs/quick-start.md)
+- [Quick Start](docs/quickstart.md)
 - [Install and Customize](docs/install-and-customize.md)
 - [Uninstall](docs/uninstall.md)
 - [Configure](docs/configure.md)
@@ -12,4 +12,4 @@
 - [API Reference](docs/api-reference.md)
 - [Troubleshooting](docs/troubleshooting.md)
 - [Limitations](docs/limitations.md)
-- [Release Notes](docs/release-notes.md)
+- [Release Notes](release-notes.md)
